@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tobu-hachi.github.io/Yukkuri-HP/sitemap.xml

@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ゆくりさんのひとりごと",
+    "description": "",
+    "home_page_url": "https://tobu-hachi.github.io/Yukkuri-HP",
+    "feed_url": "https://tobu-hachi.github.io/Yukkuri-HP/feed.json",
+    "user_comment": "",
+    "icon": "https://tobu-hachi.github.io/Yukkuri-HP/media/website/icon.png",
+    "author": {
+        "name": "Sirokuma_8110F"
+    },
+    "items": [
+    ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>ゆくりさんのひとりごと</title>
+    <link href="https://tobu-hachi.github.io/Yukkuri-HP/feed.xml" rel="self" />
+    <link href="https://tobu-hachi.github.io/Yukkuri-HP" />
+    <updated>1970-01-01T09:00:00+09:00</updated>
+    <author>
+        <name>Sirokuma_8110F</name>
+    </author>
+    <id>https://tobu-hachi.github.io/Yukkuri-HP</id>
+
+</feed>

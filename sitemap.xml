@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://tobu-hachi.github.io/Yukkuri-HP/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://tobu-hachi.github.io/Yukkuri-HP/</loc>
+</url>
+<url>
+<loc>https://tobu-hachi.github.io/Yukkuri-HP/googlemapnoshi-ifang.html</loc>
+<lastmod>2025-04-14T19:24:00+09:00</lastmod>
+<image:image>
+<image:loc>https://tobu-hachi.github.io/Yukkuri-HP/media/posts/1/LGT31-2025_04_14-19_21_04.png</image:loc>
+<image:title><![CDATA[GoogleMap起動方法]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://tobu-hachi.github.io/Yukkuri-HP/media/posts/1/LGT31-2025_04_13-16_52_08.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
